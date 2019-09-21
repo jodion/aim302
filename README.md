@@ -11,7 +11,7 @@ https://www.slideshare.net/JonathanDion/aws-toronto-summit-2019-aim302-build-tra
 * Go to "Notebook / Notebook instances".
 * Click on "Create notebook instance".
     * "Notebook instance name": type a name for your instance, e.g "aim302".
-    * "Notebook instance type": select _ml.t3.xlarge_. No need for anything bigger :)
+    * "Notebook instance type": select _ml.t3.medium_. No need for anything bigger :)
     * "IAM role": select "Create a new role"
          * Select "Any S3 bucket".
          * Click on "Create role".
