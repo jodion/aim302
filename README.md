@@ -19,5 +19,5 @@ https://www.slideshare.net/JonathanDion/aws-toronto-summit-2019-aim302-build-tra
     * Select "Clone a public Git repository" from the dropdown list.
     * In the "Git repository" box, enter: `https://github.com/jodion/aim302.git`
 * Leave all other boxes as is and click on "Create notebook instance". A few minutes later, the instance is listed as "In Service".
-* Click on "Open Jupyter".
+* Click on "Open JupyterLab".
 * Click on the "aim302.ipynb" notebook and get to work :)
